@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-p{
+.odd-number{
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
