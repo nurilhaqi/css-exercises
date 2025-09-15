@@ -1,13 +1,14 @@
 /* Add CSS Styling */
 
-.odd-number{
+.odd-number,
+.cooler{
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #id{
     color: blue;
-    font-size: 32px;
+    font-size: 36px;
 }
 
 #anotherid{
