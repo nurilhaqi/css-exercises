@@ -26,11 +26,14 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  align-self: center;
+  text-align: center;
   padding: 8px;
 }
 
 button {
   background: white;
+  padding: 8px, 24px;
   border: 1px solid #eee;
+  margin: auto;
+  display: block;
 }
