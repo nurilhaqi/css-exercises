@@ -15,6 +15,14 @@ img {
   gap: 32px;
 }
 
+.container {
+  display: flex;
+}
+
+.info {
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
