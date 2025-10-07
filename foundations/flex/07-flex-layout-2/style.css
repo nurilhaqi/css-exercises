@@ -14,10 +14,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 100px;
-}
-
-.logo {
+  padding: 0px 16px;
   font-size: 24px;
   font-weight: bold;
 }
@@ -27,6 +24,9 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .body {
